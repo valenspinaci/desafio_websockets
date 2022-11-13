@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Camisa",
+    "price": 7500,
+    "thumbnail": "http://d3ugyf2ht6aenh.cloudfront.net/stores/103/133/products/camisa-silver-ridge-mu-l21-523936152c51ab6fa515131786953784-640-0.jpg",
+    "id": 1
+  },
+  {
+    "title": "Remera",
+    "price": 5600,
+    "thumbnail": "https://cuestablanca.vteximg.com.br/arquivos/ids/360121-1000-1500/remera-manga-corta-negro-6.jpg?v=637801198950730000",
+    "id": 2
+  },
+  {
+    "title": "Camiseta",
+    "price": "10200",
+    "thumbnail": "https://bocashop.vteximg.com.br/arquivos/ids/168359-1000-1000/HE6323_1.jpg?v=637922173219300000",
+    "id": 3
+  },
+  {
+    "title": "Pantalon",
+    "price": "11000",
+    "thumbnail": "https://www.doiteargentina.com.ar/wp-content/uploads/2018/12/pantalon-doite-kawescar-desmontable-trekking-hombre-01.jpg",
+    "id": 4
+  }
+]

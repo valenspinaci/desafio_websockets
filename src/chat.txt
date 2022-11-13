@@ -1,0 +1,26 @@
+[
+  {
+    "author": "Chat",
+    "date": "01/01/2000, 00:00:00",
+    "text": "¡Bienvenido! ¿Que tal?",
+    "id": 1
+  },
+  {
+    "author": "Juan",
+    "date": "13/11/2022, 00:17:52",
+    "text": "Hola",
+    "id": 2
+  },
+  {
+    "author": "Marcos",
+    "date": "13/11/2022, 00:24:12",
+    "text": "Que tal?",
+    "id": 3
+  },
+  {
+    "author": "Valentino",
+    "date": "13/11/2022, 00:31:33",
+    "text": "Buen dia chicos!",
+    "id": 4
+  }
+]
